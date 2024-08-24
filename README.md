@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Django**
 - 💬 Ask me about **PHP, Laravel, JavaScript**
-- 📧  How to reach me: alalbd@gmail.com.
+- 📧 How to reach me: alalbd@gmail.com.
 - 🤔 I’m looking for help with ...
 
 
